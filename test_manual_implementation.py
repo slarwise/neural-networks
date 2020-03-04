@@ -1,6 +1,6 @@
 #!/Library/Frameworks/Python.framework/Versions/3.7/bin/python3
 import unittest
-import q1
+import manual_implementation
 import numpy as np
 
 class TestQ1(unittest.TestCase):
